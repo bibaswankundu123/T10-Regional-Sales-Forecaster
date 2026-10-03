@@ -1,0 +1,25 @@
+month,region,forecast_method,forecast_sales_inr
+2026-04-01,East,Linear Regression,3834886.1698412695
+2026-05-01,East,Linear Regression,3876087.9327756325
+2026-06-01,East,Linear Regression,3917289.695709995
+2026-07-01,East,Linear Regression,3958491.4586443584
+2026-08-01,East,Linear Regression,3999693.221578721
+2026-09-01,East,Linear Regression,4040894.9845130844
+2026-04-01,North,Linear Regression,6735257.971428571
+2026-05-01,North,Linear Regression,6808619.172586872
+2026-06-01,North,Linear Regression,6881980.373745173
+2026-07-01,North,Linear Regression,6955341.574903475
+2026-08-01,North,Linear Regression,7028702.776061775
+2026-09-01,North,Linear Regression,7102063.977220077
+2026-04-01,South,Linear Regression,8966426.317460317
+2026-05-01,South,Linear Regression,9065916.079365078
+2026-06-01,South,Linear Regression,9165405.841269841
+2026-07-01,South,Linear Regression,9264895.603174603
+2026-08-01,South,Linear Regression,9364385.365079366
+2026-09-01,South,Linear Regression,9463875.126984127
+2026-04-01,West,Linear Regression,9684896.153968254
+2026-05-01,West,Linear Regression,9789023.485113686
+2026-06-01,West,Linear Regression,9893150.816259116
+2026-07-01,West,Linear Regression,9997278.147404548
+2026-08-01,West,Linear Regression,10101405.47854998
+2026-09-01,West,Linear Regression,10205532.80969541
